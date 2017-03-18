@@ -3,9 +3,9 @@
 
 # تیم برنامه نویسی CoderTeam
 # با آدرس سایت
-# https://CodeTeam.com
+# https://CodeTeam.ir
 
-site: https://CoderTeam.com
+site: https://CoderTeam.ir
 -
 Telegram Bot: https://telegram.me/CoderTeam_Robot
 -
